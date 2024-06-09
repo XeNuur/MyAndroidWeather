@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MojaPogoda</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_temp">TempActivity</string>
+</resources>
