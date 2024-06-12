@@ -70,7 +70,8 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.fillMaxWidth(),
                         value = cityName,
                         onValueChange = {cityName = it},
-                        label = {Text("City")}
+                        label = {Text("City")},
+                        singleLine = true
                     )
 
                     Button(
